@@ -1,0 +1,55 @@
+/* Put your CSS rules here: */
+
+.body-grey{
+    background-color: lightgray;
+}
+
+h1{
+    color:blue;   
+    padding-left: 50px;
+}
+
+table {
+		margin: 30px;
+        background-color: white;
+	}
+
+	th {
+		text-align: left;
+	}
+
+	th, td {
+		padding: 10px;
+		vertical-align: top;
+        border-style:dotted;
+        border-color:blue;
+        border-width:1px;
+	}
+    
+.tr-1 {
+    width: 30%; 
+    padding-top:25px;
+    padding-left:20px;
+}
+
+.tr-2{
+    width: 50%;
+}
+
+.tr-3{
+    width: 20%;
+    padding-top: 15px;
+}
+
+.img{
+    padding-top: 30px;   
+}
+
+.footer{
+    text-align: center;
+}
+
+
+/* These are for the exercise, please don't edit them! */
+html,body{margin:0;padding:0;}
+.content{width:980px;padding:10px;}
